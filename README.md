@@ -1,7 +1,7 @@
 <h1 align="center"> 🎮 Mario Jump 🎮</h1>
 
 <h4 align="center"> Nesse joguinho de Mario Jump coloco em prática o que venho estudando como Dev Front-end</h4> <br>
-<h3 align="center">CLIQUE AQUI PARA ACESSÁ-LO DIRETAMENTE <a href="https://projects-gustavo.github.io/mario-jump/">aqui</a></h3>     
+<h3 align="center">CLIQUE AQUI PARA ACESSÁ-LO DIRETAMENTE <a href="http://127.0.0.1:5501/index.html">aqui</a></h3>     
    
 <img src="https://i0.wp.com/www.tecstudio.com.br/wp-content/uploads/2016/03/SuperMarioWorld_CED.jpg?fit=1440%2C732&ssl=1">
 <div align="center">
