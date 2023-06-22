@@ -1,6 +1,8 @@
-<h1 align="center">Mario Jump 🎮</h1>
+<h1 align="center"> 🎮 Mario Jump 🎮</h1>
+
+<h4>Nesse joguinho de Mario Jump coloco em prática o que venho estudando como Dev Front-end</h4>
    
-<img src="https://cdn.discordapp.com/attachments/876799799255531523/999749650816970852/mariogame.png">
+<img src="https://i0.wp.com/www.tecstudio.com.br/wp-content/uploads/2016/03/SuperMarioWorld_CED.jpg?fit=1440%2C732&ssl=1">
 <div align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
